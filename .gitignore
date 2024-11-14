@@ -12,8 +12,6 @@ __pycache__/
 # Archivos de datos y resultados
 /data/*.csv
 /data/*.pkl
-/models/*.pkl
-/notebooks/
 
 # Archivos de Docker y volúmenes
 docker-compose.override.yml
