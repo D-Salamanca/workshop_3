@@ -1,0 +1,27 @@
+# Kafka y comunicación con Kafka
+kafka-python
+
+# Base de datos y ORM para PostgreSQL
+sqlalchemy
+psycopg2-binary
+
+# Manejo de variables de entorno
+python-dotenv
+
+# Manipulación de datos
+pandas
+
+# Modelado y machine learning
+scikit-learn
+joblib  # Para guardar y cargar el modelo
+
+# Visualización de datos
+matplotlib
+seaborn
+
+# Conversión de países a continentes
+pycountry
+pycountry_convert
+
+# Formato de tablas
+tabulate
